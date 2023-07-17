@@ -1,2 +1,2 @@
 # new_repo
-# instructions
+# instruction
